@@ -1,11 +1,6 @@
 # ninja log v5
-1	146	6998154816921624	CMakeFiles/c_code.dir/main.cpp.obj	a6a2a3a12d23cbbf
-147	356	6998154818994212	c_code.exe	1b1b4aa45ce49c47
-2	92	6998155484694528	CMakeFiles/c_code.dir/main.cpp.obj	a6a2a3a12d23cbbf
-92	228	6998155486004889	c_code.exe	1b1b4aa45ce49c47
-2	97	6998155718101561	CMakeFiles/c_code.dir/main.cpp.obj	a6a2a3a12d23cbbf
-97	225	6998155719347896	c_code.exe	1b1b4aa45ce49c47
-2	86	6998155845312581	CMakeFiles/c_code.dir/main.cpp.obj	a6a2a3a12d23cbbf
-86	207	6998155846476897	c_code.exe	1b1b4aa45ce49c47
 2	91	6998155976541344	CMakeFiles/c_code.dir/main.cpp.obj	a6a2a3a12d23cbbf
 92	217	6998155977758461	c_code.exe	1b1b4aa45ce49c47
+1	246	6998164243869468	build.ninja	e0b597d85f43d3c
+1	115	6998164245806234	CMakeFiles/c_code.dir/main.c.obj	fd9c0c2b9d874012
+116	348	6998164248089868	c_code.exe	60b3ff75c48a3b81
