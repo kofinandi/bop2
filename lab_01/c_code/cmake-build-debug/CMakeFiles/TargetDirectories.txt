@@ -1,0 +1,3 @@
+C:/Users/kofinandi/Documents/bop2/lab_01/c_code/cmake-build-debug/CMakeFiles/c_code.dir
+C:/Users/kofinandi/Documents/bop2/lab_01/c_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kofinandi/Documents/bop2/lab_01/c_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
