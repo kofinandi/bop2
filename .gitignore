@@ -37,6 +37,3 @@
 **/x64/
 **/.idea/
 **/.vs/
-*.vcxproj
-*.filters
-*.user
