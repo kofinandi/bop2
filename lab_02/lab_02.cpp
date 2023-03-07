@@ -5,8 +5,6 @@
 #include <iostream>
 #define ARRAY_MAX 5
 
-using namespace std;
-
 int compare(const void* a, const void* b) {
 	double* da = (double*)a, * db = (double*)b;
 	if (*da < *db)return -1;
