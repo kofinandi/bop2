@@ -4,3 +4,8 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 ## Lab 1
 - Visual Studio install
 - C and C++ values, pointers and references
+
+## Lab 2
+- Pointers
+- Function parameters
+- Dynamic memory
