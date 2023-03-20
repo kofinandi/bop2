@@ -13,3 +13,7 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 ## Lab 3
 - Constants
 - Stack implementation
+
+## Lab 4
+- Classes
+- File decomposition
