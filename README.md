@@ -9,3 +9,7 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 - Pointers
 - Function parameters
 - Dynamic memory
+
+## Lab 3
+- Constants
+- Stack implementation
