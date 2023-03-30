@@ -17,3 +17,6 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 ## Lab 4
 - Classes
 - File decomposition
+
+## Lab 5
+- Classes with dynamic attributes
