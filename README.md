@@ -20,3 +20,8 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 
 ## Lab 5
 - Classes with dynamic attributes
+
+---
+
+## CT2
+- Sample solution for Triangle class
