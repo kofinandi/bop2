@@ -24,7 +24,13 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 ## Lab 6
 - Custom String class
 
+## Lab 7
+- Custom Vector class
+
 ---
 
 ## CT2
 - Sample solution for Triangle class
+
+## CT3
+- Sample solution for Vector class
