@@ -27,6 +27,10 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 ## Lab 7
 - Custom Vector class
 
+## Lab 8
+- Inheritance
+- Lab 7 Vector class for a user defined class
+
 ---
 
 ## CT2
