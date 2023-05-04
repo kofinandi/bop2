@@ -38,3 +38,6 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 
 ## CT3
 - Sample solution for Vector class
+
+## CT4
+- Sample solution for all classes
