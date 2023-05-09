@@ -39,3 +39,4 @@
 **/.vs/
 **/cmake-build-debug/
 CMakeLists.txt
+*.txt
