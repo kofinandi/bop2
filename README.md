@@ -31,6 +31,13 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 - Inheritance
 - Lab 7 Vector class for a user defined class
 
+## Lab 9
+- Interfaces
+
+## Lab 10
+- Casting
+- Operator overloading
+
 ---
 
 ## CT2
