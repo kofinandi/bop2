@@ -48,3 +48,7 @@ This is the class repository for Basics of Programming 2 course at BME. It will 
 
 ## CT4
 - Sample solution for all classes
+
+## CT5
+- Sample solution for throwing exceptions (rootof)
+- Sample solution for exception handling (main)
